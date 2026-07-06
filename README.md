@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi there, I'm Alexandros Passalidis 👋
 
-<!--
-**alexuser020400/alexuser020400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Enterprise Software Systems Development  
+🎓 BSc in Accounting & Finance  
 
-Here are some ideas to get you started:
+I'm passionate about building technology-driven solutions that help businesses make better decisions through software, data and analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as an ERP Developer while continuously expanding my knowledge in software engineering, business analytics and data technologies.
+
+---
+
+## 🚀 Areas of Interest
+
+- 📊 Business Analytics
+- 📈 Financial Analytics
+- ⚠️ Risk Analytics
+- 💼 Business Intelligence
+- 💻 Software Development
+- 🗄 Data Analytics
+- 🏢 ERP Systems
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
+
+- Java
+- Python
+- SQL
+
+---
+
+### Analytics & BI
+
+- Tableau
+- Power BI *(currently learning)*
+
+---
+
+### Development Tools
+
+- Git
+- GitHub
+- Azure DevOps
+- Visual Studio
+- VS Code
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Python for Data Analytics
+- Microsoft Power BI
+- Microsoft Azure Data Fundamentals (DP-900)
+
+---
+
+## 💡 What I'm interested in
+
+I enjoy working at the intersection of:
+
+- Business
+- Finance
+- Technology
+- Analytics
+- Software Engineering
+
+My long-term goal is to contribute to projects where technology and data create measurable business value.
