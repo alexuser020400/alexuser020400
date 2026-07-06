@@ -5,7 +5,7 @@
 
 I'm passionate about building technology-driven solutions that help businesses make better decisions through software, data and analytics.
 
-Currently working as an ERP Developer while continuously expanding my knowledge in software engineering, business analytics and data technologies.
+Currently working as an Business Analyst while continuously expanding my knowledge in software engineering, business analytics and data technologies.
 
 ---
 
